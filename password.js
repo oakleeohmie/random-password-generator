@@ -19,3 +19,5 @@ window.onload = function () {
         document.querySelector('#password').value = generate();
     });
 }
+document.getElementById("password").style.width = "100%";
+document.getElementById("password").style.fontSize = "25px"
