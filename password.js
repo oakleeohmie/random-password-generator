@@ -26,3 +26,7 @@ document.getElementById("box").style.paddingRight = "50px";
 document.getElementById("generate").style.backgroundColor = "green";
 document.getElementById("generate").style.color = "white";
 document.getElementById("generate").style.fontSize = "15px";
+document.getElementById("generate").style.fontFamily = "courier, monospace";
+document.getElementById("copy").style.fontSize = "15px";
+document.getElementById("copy").style.fontFamily = "courier, monospace";
+document.getElementById("copy").style.cssFloat = "right"
