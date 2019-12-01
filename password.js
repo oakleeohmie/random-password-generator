@@ -13,3 +13,9 @@ function generate(length = 12) {
 
     return password;
 }
+window.onload = function () {
+    var generateButton = document.querySelector('#generate');
+    generateButton.addEventListener('click', function () {
+        document.querySelector('#password').value = generate();
+    });
+}
