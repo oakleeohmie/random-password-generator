@@ -29,4 +29,4 @@ document.getElementById("generate").style.fontSize = "15px";
 document.getElementById("generate").style.fontFamily = "courier, monospace";
 document.getElementById("copy").style.fontSize = "15px";
 document.getElementById("copy").style.fontFamily = "courier, monospace";
-document.getElementById("copy").style.cssFloat = "right"
+document.getElementById("copy").style.cssFloat = "right";
